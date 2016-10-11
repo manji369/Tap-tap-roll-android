@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\tap_and\Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="..\tap_and\Assets\Rotator.cs" Line="14" Column="65" />
+      <File FileName="..\tap_and\Assets\Scripts\PlayerController.cs" Line="61" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

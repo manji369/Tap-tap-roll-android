@@ -1,0 +1,43 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     2067 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dell\Documents\Tap_Tap_Roll_Android\Build\Tap-Tap-Rollv1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Tap_Tap_Roll_Android\Build\Tap-Tap-Rollv1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Documents\Tap_Tap_Roll_Android\Build\Tap-Tap-Rollv1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Tap_Tap_Roll_Android\Build\Tap-Tap-Rollv1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Documents\Tap_Tap_Roll_Android\Build\Tap-Tap-Rollv1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dell\Documents\Tap_Tap_Roll_Android\Build\Tap-Tap-Rollv1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.356 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Dell\Documents\Tap_Tap_Roll_Android\Build\Tap-Tap-Rollv1.0_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 3.004852 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 237.
+Total: 3.823631 ms (FindLiveObjects: 0.087807 ms CreateObjectMapping: 0.049035 ms MarkObjects: 0.609523 ms  DeleteObjects: 0.220089 ms)
+
+UnloadTime: 1.608479 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 237.
+Total: 3.376039 ms (FindLiveObjects: 0.034781 ms CreateObjectMapping: 0.029079 ms MarkObjects: 0.228642 ms  DeleteObjects: 0.104343 ms)
+
+UnloadTime: 2.557260 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 237.
+Total: 2.958667 ms (FindLiveObjects: 0.035921 ms CreateObjectMapping: 0.030219 ms MarkObjects: 0.205265 ms  DeleteObjects: 0.141974 ms)
+
+UnloadTime: 1.879315 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 237.
+Total: 2.749981 ms (FindLiveObjects: 0.035351 ms CreateObjectMapping: 0.030219 ms MarkObjects: 0.213247 ms  DeleteObjects: 0.137983 ms)
+
